@@ -1,0 +1,13 @@
+prefix=/home/skk_thenotorious/Documents/Udemy-MachineLearning/Sample_Project/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.9.9
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private:  -lpthread -L/home/skk_thenotorious/Documents/Udemy-MachineLearning/Sample_Project/env/lib -lz -L/home/skk_thenotorious/Documents/Udemy-MachineLearning/Sample_Project/env/lib -llzma -L/home/skk_thenotorious/Documents/Udemy-MachineLearning/Sample_Project/env/lib -lm  
+Cflags: -I${includedir}/libxml2 -I/home/skk_thenotorious/Documents/Udemy-MachineLearning/Sample_Project/env/include 

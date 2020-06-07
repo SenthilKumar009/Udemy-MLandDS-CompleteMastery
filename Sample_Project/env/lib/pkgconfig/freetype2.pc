@@ -1,0 +1,14 @@
+prefix=/home/skk_thenotorious/Documents/Udemy-MachineLearning/Sample_Project/env
+exec_prefix=/home/skk_thenotorious/Documents/Udemy-MachineLearning/Sample_Project/env
+libdir=/home/skk_thenotorious/Documents/Udemy-MachineLearning/Sample_Project/env/lib
+includedir=/home/skk_thenotorious/Documents/Udemy-MachineLearning/Sample_Project/env/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 22.1.16
+Requires:
+Requires.private: 
+Libs: -L${libdir} -lfreetype
+Libs.private: -lz -L/home/skk_thenotorious/Documents/Udemy-MachineLearning/Sample_Project/env/lib -lpng16 -lm -lz -lm
+Cflags: -I${includedir}/freetype2
