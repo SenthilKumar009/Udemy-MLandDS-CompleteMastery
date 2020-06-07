@@ -1,0 +1,59 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/home/skk_thenotorious/anaconda3/pkgs/entrypoints-0.3-py38_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/__pycache__/entrypoints.cpython-38.pyc",
+    "lib/python3.8/site-packages/entrypoints-0.3-py3.8.egg-info",
+    "lib/python3.8/site-packages/entrypoints.py"
+  ],
+  "fn": "entrypoints-0.3-py38_0.tar.bz2",
+  "license": "MIT License",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/skk_thenotorious/anaconda3/pkgs/entrypoints-0.3-py38_0",
+    "type": 1
+  },
+  "md5": "9730fa5909d198b04d02c53550215f78",
+  "name": "entrypoints",
+  "package_tarball_full_path": "/home/skk_thenotorious/anaconda3/pkgs/entrypoints-0.3-py38_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.8/site-packages/__pycache__/entrypoints.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2936daf03ea4bf311302fab8b47156e28674271a415184a35dd12d09c9ae0cb4",
+        "sha256_in_prefix": "2936daf03ea4bf311302fab8b47156e28674271a415184a35dd12d09c9ae0cb4",
+        "size_in_bytes": 7150
+      },
+      {
+        "_path": "lib/python3.8/site-packages/entrypoints-0.3-py3.8.egg-info",
+        "path_type": "hardlink",
+        "sha256": "657ce900ad84beaec81901c22039f5bfca54b8baa7daf71bc9ebe862c9ad9a99",
+        "sha256_in_prefix": "657ce900ad84beaec81901c22039f5bfca54b8baa7daf71bc9ebe862c9ad9a99",
+        "size_in_bytes": 284
+      },
+      {
+        "_path": "lib/python3.8/site-packages/entrypoints.py",
+        "path_type": "hardlink",
+        "sha256": "68a5307fc9444bce2f15b1bf04a97bd233c20ffdd7d8277205e5e546503be1f0",
+        "sha256_in_prefix": "68a5307fc9444bce2f15b1bf04a97bd233c20ffdd7d8277205e5e546503be1f0",
+        "size_in_bytes": 8262
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 10202,
+  "subdir": "linux-64",
+  "timestamp": 1572514983215,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/entrypoints-0.3-py38_0.tar.bz2",
+  "version": "0.3"
+}

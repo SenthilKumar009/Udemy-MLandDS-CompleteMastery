@@ -1,0 +1,123 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/home/skk_thenotorious/anaconda3/pkgs/backcall-0.1.0-py38_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/backcall-0.1.0.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/backcall-0.1.0.dist-info/METADATA",
+    "lib/python3.8/site-packages/backcall-0.1.0.dist-info/RECORD",
+    "lib/python3.8/site-packages/backcall-0.1.0.dist-info/WHEEL",
+    "lib/python3.8/site-packages/backcall-0.1.0.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/backcall/__init__.py",
+    "lib/python3.8/site-packages/backcall/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/backcall/__pycache__/_signatures.cpython-38.pyc",
+    "lib/python3.8/site-packages/backcall/__pycache__/backcall.cpython-38.pyc",
+    "lib/python3.8/site-packages/backcall/_signatures.py",
+    "lib/python3.8/site-packages/backcall/backcall.py"
+  ],
+  "fn": "backcall-0.1.0-py38_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/skk_thenotorious/anaconda3/pkgs/backcall-0.1.0-py38_0",
+    "type": 1
+  },
+  "md5": "207bb8e9bee4448c8a71522f161b617d",
+  "name": "backcall",
+  "package_tarball_full_path": "/home/skk_thenotorious/anaconda3/pkgs/backcall-0.1.0-py38_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.8/site-packages/backcall-0.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.8/site-packages/backcall-0.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cff730c1722c7069c90994cc9bb50a59d4cb5d85f89d456cfb92390230d493e4",
+        "sha256_in_prefix": "cff730c1722c7069c90994cc9bb50a59d4cb5d85f89d456cfb92390230d493e4",
+        "size_in_bytes": 2114
+      },
+      {
+        "_path": "lib/python3.8/site-packages/backcall-0.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6188ecb4b9d83c70a34849fa4490e9cf479736553750da3aa00e3b167d95c96c",
+        "sha256_in_prefix": "6188ecb4b9d83c70a34849fa4490e9cf479736553750da3aa00e3b167d95c96c",
+        "size_in_bytes": 778
+      },
+      {
+        "_path": "lib/python3.8/site-packages/backcall-0.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "2bc06e9099e5d958bf637187be3db35aa2c98de3db26542dba92b6373cbf520c",
+        "sha256_in_prefix": "2bc06e9099e5d958bf637187be3db35aa2c98de3db26542dba92b6373cbf520c",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "lib/python3.8/site-packages/backcall-0.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d647befcb4ea8484fc7abaf67f6ada9ce3baaae1dbc94f8be73a7781caa6e980",
+        "sha256_in_prefix": "d647befcb4ea8484fc7abaf67f6ada9ce3baaae1dbc94f8be73a7781caa6e980",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "lib/python3.8/site-packages/backcall/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a400e82cd08d8b77c2948b3f41d6e0cc25d5e5e42565e848830a5b1559e31c41",
+        "sha256_in_prefix": "a400e82cd08d8b77c2948b3f41d6e0cc25d5e5e42565e848830a5b1559e31c41",
+        "size_in_bytes": 148
+      },
+      {
+        "_path": "lib/python3.8/site-packages/backcall/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a9af956e3ad240fff5ba42680c650d169a0b29ef582afc94e09c38c30d404130",
+        "sha256_in_prefix": "a9af956e3ad240fff5ba42680c650d169a0b29ef582afc94e09c38c30d404130",
+        "size_in_bytes": 285
+      },
+      {
+        "_path": "lib/python3.8/site-packages/backcall/__pycache__/_signatures.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "107abc460f4fec79bef29073ba7954a8996e6bca2a85fe48e46f8015354dbff5",
+        "sha256_in_prefix": "107abc460f4fec79bef29073ba7954a8996e6bca2a85fe48e46f8015354dbff5",
+        "size_in_bytes": 17688
+      },
+      {
+        "_path": "lib/python3.8/site-packages/backcall/__pycache__/backcall.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "5a4e670ef2e54b9701b47ede43f3afdfe4e13f2387c4d415daf91e06fd690cd7",
+        "sha256_in_prefix": "5a4e670ef2e54b9701b47ede43f3afdfe4e13f2387c4d415daf91e06fd690cd7",
+        "size_in_bytes": 2678
+      },
+      {
+        "_path": "lib/python3.8/site-packages/backcall/_signatures.py",
+        "path_type": "hardlink",
+        "sha256": "cb7a71fdf4c5559332f3e9b04cebd2c6538e68b51d1c9985dfb93b46ff4d5eed",
+        "sha256_in_prefix": "cb7a71fdf4c5559332f3e9b04cebd2c6538e68b51d1c9985dfb93b46ff4d5eed",
+        "size_in_bytes": 29847
+      },
+      {
+        "_path": "lib/python3.8/site-packages/backcall/backcall.py",
+        "path_type": "hardlink",
+        "sha256": "0d0ccd5efe3b668a1af184d7e41135f51b8bc788f2ac4b105112531e1aa1738f",
+        "sha256_in_prefix": "0d0ccd5efe3b668a1af184d7e41135f51b8bc788f2ac4b105112531e1aa1738f",
+        "size_in_bytes": 3752
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 20524,
+  "subdir": "linux-64",
+  "timestamp": 1572437351326,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/backcall-0.1.0-py38_0.tar.bz2",
+  "version": "0.1.0"
+}

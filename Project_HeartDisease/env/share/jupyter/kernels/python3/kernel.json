@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/home/skk_thenotorious/Documents/Udemy-MachineLearning/Project_HeartDisease/env/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}
