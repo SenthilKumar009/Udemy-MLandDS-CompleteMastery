@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/home/skk_thenotorious/Documents/Udemy-MachineLearning/Project-Bulldozer-Price-Prediction/env
+exec_prefix=/home/skk_thenotorious/Documents/Udemy-MachineLearning/Project-Bulldozer-Price-Prediction/env
+libdir=/home/skk_thenotorious/Documents/Udemy-MachineLearning/Project-Bulldozer-Price-Prediction/env/lib
+includedir=/home/skk_thenotorious/Documents/Udemy-MachineLearning/Project-Bulldozer-Price-Prediction/env/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.5
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lrt  -lpthread
